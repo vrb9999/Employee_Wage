@@ -1,0 +1,14 @@
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.exe
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.deps.json
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.runtimeconfig.json
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.runtimeconfig.dev.json
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.dll
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\bin\Debug\netcoreapp3.1\EmpWage_DailyData.pdb
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.csproj.AssemblyReference.cache
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.AssemblyInfoInputs.cache
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.AssemblyInfo.cs
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.dll
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.pdb
+D:\RFP\Employee_Wage\EmpWage_DailyData\EmpWage_DailyData\obj\Debug\netcoreapp3.1\EmpWage_DailyData.genruntimeconfig.cache
