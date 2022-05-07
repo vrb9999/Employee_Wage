@@ -1,0 +1,14 @@
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.exe
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.deps.json
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.runtimeconfig.json
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.runtimeconfig.dev.json
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.dll
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\bin\Debug\netcoreapp3.1\TotalWage_Company.pdb
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.csproj.AssemblyReference.cache
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.AssemblyInfoInputs.cache
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.AssemblyInfo.cs
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.dll
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.pdb
+D:\RFP\Employee_Wage\TotalWage_Company\TotalWage_Company\obj\Debug\netcoreapp3.1\TotalWage_Company.genruntimeconfig.cache

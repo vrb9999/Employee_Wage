@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TotalWage_Company/1.0.0": {
+        "runtime": {
+          "TotalWage_Company.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TotalWage_Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
