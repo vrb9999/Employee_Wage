@@ -1,0 +1,14 @@
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.exe
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.deps.json
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.runtimeconfig.json
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.runtimeconfig.dev.json
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.dll
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\bin\Debug\netcoreapp3.1\EmpWageUsingInterface.pdb
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.csproj.AssemblyReference.cache
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.AssemblyInfoInputs.cache
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.AssemblyInfo.cs
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.dll
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.pdb
+D:\RFP\Employee_Wage\EmpWageUsingInterface\EmpWageUsingInterface\obj\Debug\netcoreapp3.1\EmpWageUsingInterface.genruntimeconfig.cache
