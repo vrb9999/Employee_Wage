@@ -1,0 +1,13 @@
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.exe
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.deps.json
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.runtimeconfig.json
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.runtimeconfig.dev.json
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.dll
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\bin\Debug\netcoreapp3.1\emp_class_refactor.pdb
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.AssemblyInfoInputs.cache
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.AssemblyInfo.cs
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.dll
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.pdb
+D:\RFP\Employee_Wage\emp_class_refactor\emp_class_refactor\obj\Debug\netcoreapp3.1\emp_class_refactor.genruntimeconfig.cache
